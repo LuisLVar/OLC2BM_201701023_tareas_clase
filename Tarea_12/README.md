@@ -6,7 +6,10 @@ Escriba un esquema de traducción dirigido por la sintaxis posfijo, para un anal
 10+8*3/(4-2)
 
 ## Salida:
-T1=8*3;\n
-T2=4-2;\n
-T3=T1/T2;\n
-T4=10+T3;\n
+T1=8*3;
+
+T2=4-2;
+
+T3=T1/T2;
+
+T4=10+T3;
