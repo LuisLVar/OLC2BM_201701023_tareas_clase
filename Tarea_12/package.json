@@ -1,0 +1,17 @@
+{
+    "name": "tarea-12",
+    "version": "1.0.0",
+    "description": "Escriba un esquema de traducción dirigido por la sintaxis posfijo, para un analizador ascendente que reciba como entrada una expresión aritmética (*,+,-,/ y paréntesis) y genere a traves del recorrido de un AST construido el codigo de tres direcciones.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@types/node": "^14.6.3"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.4"
+    }
+}
